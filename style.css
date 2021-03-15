@@ -1,0 +1,102 @@
+.kepszoveg {
+  position: absolute;
+  top: 160px;
+  left: 250px;
+}
+
+.kepszoveg h2 {
+  margin: 0px;
+  font-family: 'Abril Fatface', cursive;
+  color: black;
+}
+
+.kepszoveg h1 {
+  margin: 0px;
+  font-family: 'Abril Fatface', cursive;
+  font-size: 50px;
+  color: black;
+  background-color: transparent; 
+  padding: 0px;
+}
+
+blockquote::before {
+  content: '”';
+  font-size: 80px; 
+}
+
+blockquote{
+  background-color: #222;
+  color: white;
+  font-size: 40px;
+  padding-left:15px; 
+  font-family: 'Abril Fatface', cursive;
+   margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left:280px;
+  margin-right:280px; 
+}
+
+h1 {
+  font-family: 'Abril Fatface', cursive;
+  color: #222;
+  font-size: 30px;
+  background-color: black;
+  color: white;
+  padding-left: 50px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left:250px;
+  margin-right:250px; 
+  padding-bottom:20px;
+}
+
+h2 {
+  font-family: 'Merriweather Sans', sans-serif;
+  color: #222;
+  margin-left:280px;
+  margin-right:280px;
+  text-transform: uppercase;
+}
+
+h3 {
+  font-family: 'Merriweather Sans', sans-serif;
+  color: #222;
+  font-size: 22px;
+  margin-left:280px;
+  margin-right:280px; 
+  margin-bottom: 0px;
+}
+
+img {
+  display: block;
+  position: relative;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.szoveg {
+  margin-left:280px;
+  margin-right:280px; 
+  font-family: 'Josefin Sans', sans-serif;
+  color: #222;
+}
+
+.vonal {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  border-style: none none solid;
+  border-width: 5px;
+}
+
+h4 {
+   font-family: 'Fira Sans', sans-serif;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+li {
+  list-style-type:square;
+  margin-top:15px;
+  margin-bottom: 15px;
+}
